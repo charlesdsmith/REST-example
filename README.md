@@ -1,2 +1,2 @@
 # REST-example
-Took this from the private repo I use for proswap
+A couple examples of using the Django REST framework
